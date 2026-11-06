@@ -1,0 +1,10 @@
+{
+  "description": "Découvrez chaque jour de nouvelles promotions en France et faites des économies face à la baisse du pouvoir d’achat.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
